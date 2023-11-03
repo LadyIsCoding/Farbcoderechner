@@ -7,5 +7,4 @@ Anwendung:
 2. Um Streamlit zu starten, schreibe in die Eingabeaufforderung: streamlit run Zahlenraumrechner.py
 3. Es öffnet sich ein Browserfenster und in das Eingabefeld kann ein 6-stelliger hexadezimaler Code eingegeben werden. 
 
-![What is this](Hexenkueche.png)
-![What is this](screen-recording.webm)
+Mehr dazu in der Dokumentation unter https://github.com/LadyIsCoding/Farbcoderechner/tree/docs
