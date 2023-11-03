@@ -4,7 +4,8 @@ Ich habe mich dazu entschieden, das ganze verspielt und visuell darzustellen und
 
 Anwendung:
 1. Um den Farbcoderechner zu verwenden, vergewissere dich, dass die Dateien vollständig sind und alle im gleichen Verzeichnis liegen
-2. Um Streamlit zu starten.. 
+2. Um Streamlit zu starten, schreibe in die Eingabeaufforderung: streamlit run Zahlenraumrechner.py
+3. Es öffnet sich ein Browserfenster und in das Eingabefeld kann ein 6-stelliger hexadezimaler Code eingegeben werden. 
 
 
 
